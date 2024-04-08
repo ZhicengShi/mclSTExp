@@ -218,7 +218,7 @@ for fold in range(9):
     mae_list.append(mae)
     print("Mean Absolute Error (MAE): ", mae)
 
-    with open(r'D:\spatial_transcriptomics\DeepHis2Exp\src\scripts\Benchmarking_Figure1\1000hvg_common.pkl', 'rb') as f:
+    with open(r'./data/1000hvg_common.pkl', 'rb') as f:
         gene_list = pickle.load(f).to_list()
     adata_ture = anndata.AnnData(true)
     adata_pred = anndata.AnnData(pred)
