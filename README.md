@@ -16,3 +16,10 @@ Required package:
 -  human HER2-positive breast tumor ST data https://github.com/almaan/her2st/.
 -  human cutaneous squamous cell carcinoma 10x Visium data (GSE144240).
 -  10x Genomics Visium data and Swarbrick’s Laboratory Visium data https://doi.org/10.48610/4fb74a9.
+
+## mclSTExp pipeline
+- 
+- Run `hvg_her2st.py` generation of highly variable genes.
+- Run `train.py`
+- Run `evel.py`
+- Run `tutorial.ipynb`
