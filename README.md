@@ -25,6 +25,9 @@ Required package:
 - Run `evel.py`
 - Run `tutorial.ipynb`
 
+## Cite
+Wenwen Min*, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal contrastive learning for spatial gene expression prediction using histology images." arXiv preprint arXiv:2407.08216 (2024).
+
 ## Contact details
 
 shizhiceng@stu.ynu.edu.cn
