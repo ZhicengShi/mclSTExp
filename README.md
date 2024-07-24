@@ -24,3 +24,8 @@ Required package:
 - Run `train.py`
 - Run `evel.py`
 - Run `tutorial.ipynb`
+
+## Contact details
+
+shizhiceng@stu.ynu.edu.cn
+wenwen.min@qq.com
