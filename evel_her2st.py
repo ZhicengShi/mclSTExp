@@ -29,8 +29,16 @@ def build_loaders_inference():
 
 def get_embeddings(model):
     test_loader = build_loaders_inference()
-    model.eval()
+    state_dict = torch.load(model_path)
+    new_state_dict = {}
+    for key in state_dict.keys():
+        new_key = key.replace('module.', '')  # remove the prefix 'module.'
+        new_key = new_key.replace('well', 'spot')  # for compatibility with prior naming
+        new_state_dict[new_key] = state_dict[key]
 
+    model.load_state_dict(new_state_dict)
+    model.eval()
+    model = model.to('cuda')
     print("Finished loading model")
 
     test_image_embeddings = []
