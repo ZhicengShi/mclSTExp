@@ -30,6 +30,6 @@ Wenwen Min*, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal co
 
 ## Contact details
 
-shizhiceng@stu.ynu.edu.cn
+zhicengshi@qq.com
 
 wenwen.min@qq.com
