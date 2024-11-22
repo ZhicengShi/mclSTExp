@@ -26,9 +26,7 @@ Three publicly available ST datasets were used in this study. You can download t
 
 ## Contact details
 
-研究生：zhicengshi@qq.com
-
-通信作者：wenwen.min@qq.com
+zhicengshi@qq.com and wenwen.min@qq.com
 
 
 ### Citing
