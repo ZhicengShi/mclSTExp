@@ -23,11 +23,24 @@ Three publicly available ST datasets were used in this study. You can download t
 - Run `evel.py`
 - Run `tutorial.ipynb`
 
-## Cite
-Wenwen Min*, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal contrastive learning for spatial gene expression prediction using histology images." arXiv preprint arXiv:2407.08216 (2024).
 
 ## Contact details
 
 zhicengshi@qq.com
 
 wenwen.min@qq.com
+
+
+### Citing
+<p>The corresponding BiBTeX citation are given below:</p>
+<div class="highlight-none"><div class="highlight"><pre>
+@article{min2024multimodal,
+  title={Multimodal contrastive learning for spatial gene expression prediction using histology images},
+  author={Min, Wenwen and Shi, Zhiceng and Zhang, Jun and Wan, Jun and Wang, Changmiao},
+  journal={Briefings in Bioinformatics},
+  volume = {25},
+  number = {6},
+  pages = {bbae551},
+  year={2024}
+}
+</pre></div>
