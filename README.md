@@ -26,10 +26,10 @@ Three publicly available ST datasets were used in this study. You can download t
 
 ## Contact details
 
-zhicengshi@qq.com and wenwen.min@qq.com
+If you have any questions, please contact zhicengshi@qq.com and wenwen.min@qq.com
 
 
-### Citing
+## Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
 @article{min2024multimodal,
