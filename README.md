@@ -2,6 +2,8 @@
 
 In this study, we propose mclSTExp: a multimodal deep learning approach utilizing Transformer and contrastive learning architecture. Inspired by the field of natural language processing, we regard the spots detected by ST technology as ''words'' and the sequences of these spots as ''sentences'' containing multiple ''words''. We employ a self-attention mechanism to extract features from these ''words'' and combine them with learnable position encoding to seamlessly integrate the positional information of these ''words''. Subsequently, we employ a contrastive learning framework to fuse the combined features with image features. 
 
+We employed two human breast cancer datasets and one human cutaneous squamous cell carcinoma (cSCC) dataset. Our experimental results demonstrate that mclSTExp accurately predicts gene expression in H\&E images at different spatial resolutions. This is achieved by leveraging the features of each spot, its spatial information, and H\&E image features. Additionally, mclSTExp demonstrates the ability to interpret specific cancer-overexpressed genes, immunologically relevant genes, preserve the original gene expression patterns, and identify specific spatial domains annotated by pathologists.
+
 ![(Variational)](workflow.png)
 
 ## System environment
