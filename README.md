@@ -44,3 +44,7 @@ If you have any questions, please contact zhicengshi@qq.com and wenwen.min@qq.co
   year={2024}
 }
 </pre></div>
+
+## Article link
+
+https://doi.org/10.1093/bib/bbae551
